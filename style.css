@@ -1,0 +1,19 @@
+nav a{
+    color: whitesmoke !important;
+    cursor: pointer;
+}
+
+header{
+    background-image: url(media/bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+
+.edit{
+    height: 300px;
+    border-radius: 5px;
+    
+}
+
+
